@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [dominik@wouldyoubot.com](mailto:dominik@wouldyoubot.com)
-* 🚀  I'm currently working on [Would you Discord Bot](http://wouldyoubot.com)
+* 🚀  I'm currently working on [Would you Discord Bot](http://wouldyoubot.gg)
 * 🤝  I'm open to collaborating on Open Source Projects
 
 <a href="https://www.github.com/mezotv" target="_blank" rel="noreferrer"><img
